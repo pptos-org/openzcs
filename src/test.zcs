@@ -1,0 +1,17 @@
+<Project1 : Application ZCS>
+    Let a be Integer
+    Let b be Integer
+    Set a as 10
+    Set b as a
+    Set b as b + 10 * 80
+    Print(b)
+    Print(b)
+    Print(b)
+    Print(b)
+    Print(b)
+    Print(b)
+    Print(b)
+    Print(b)
+    Print(b)
+    Print(b)
+</Project1>
